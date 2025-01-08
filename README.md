@@ -1,1 +1,1 @@
-# ELIOTBANDA.github.io
+# Mines predictor.github.io
